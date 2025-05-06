@@ -1,0 +1,21 @@
+@media (max-width: 575px) {
+    .keterangan-singkat{
+        font-size: 10px;
+    } 
+    .btn{
+        margin-bottom: -400px;
+        margin-left: 0px;
+        width: 100px;
+        font-size: 10px;
+        text-align: center;
+    }
+}
+/* Gaya untuk tablet dalam mode potret */
+@media (min-width: 768px) and (max-width: 991px) and (orientation: portrait) {
+    /* ... */
+  }
+  
+  /* Gaya untuk tablet dalam mode lanskap */
+  @media (min-width: 992px) and (max-width: 1199px) and (orientation: landscape) {
+    /* ... */
+  }

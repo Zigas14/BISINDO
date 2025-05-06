@@ -1,0 +1,13 @@
+@media (max-width: 575px) {
+    body{
+        font-size: 15%;
+    }
+    .e-book-icon{
+      margin-top: 0px;
+    }
+    .book-type {
+      margin-top: 150px;
+      margin-bottom: 0;
+      padding-bottom: 0;
+    }
+  }
